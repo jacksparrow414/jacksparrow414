@@ -4,5 +4,6 @@
 
 [![jacksparrow414's github stats](https://github-readme-stats.vercel.app/api?username=jacksparrow414&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github.com/jacksparrow414/privatepic/blob/main/dino.gif)
 
-tips: my blog is :point_right: [here](https://blog.csdn.net/dghkgjlh), hope you can find what you need :blush:
+Tips: my blog is :point_right: [here](https://blog.csdn.net/dghkgjlh), hope you can find what you need :blush:
