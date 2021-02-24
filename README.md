@@ -6,4 +6,4 @@
 
 ![](https://github.com/jacksparrow414/privatepic/blob/main/dino.gif)
 
-Tips: my blog is :point_right: [here](https://blog.csdn.net/dghkgjlh), hope you can find what you need :blush:
+Tips: my blog is :point_right: [here](https://blog.csdn.net/dghkgjlh), wish you can find what you need :blush:
