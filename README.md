@@ -9,4 +9,4 @@
 
 ![](./dino.gif)
 
-Tips: my blog is :point_right: [here](https://jacksparrow414.pages.dev), wish you can find what you need :blush:
+Tips: my blog is :point_right: [here](https://jacksparrow414.com), wish you can find what you need :blush:
